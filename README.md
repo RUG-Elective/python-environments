@@ -24,5 +24,4 @@ This briefly describes how to install a Python virtual environment for the Geo-P
 2. Activate the new environment and update JupyterLab
     ```bash
     conda activate geospatial-student
-    sh postBuild
     ```
