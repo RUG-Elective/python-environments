@@ -10,7 +10,7 @@ This briefly describes how to install a Python virtual environment for the Geo-P
     ```
 3. Clone the course Python environments from GitHub
     ```bash
-    git clone https://github.com/geo-python/python-environments.git
+    git clone https://github.com/RUG-Elective/python-environments.git
     ```
 4. Change into the working directory with the cloned environment files
     ```bash
