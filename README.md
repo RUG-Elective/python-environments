@@ -26,13 +26,3 @@ This briefly describes how to install a Python virtual environment for the Geo-P
     conda activate geo-python-student
     sh postBuild
     ```
-## Creating the environment for teachers
-1. Create the python environment using mamba
-    ```bash
-    mamba env create -f geo-python-teacher.yml
-    ```
-2. Activate the new environment and update JupyterLab
-    ```bash
-    conda activate geo-python-teacher
-    sh postBuild
-    ```
