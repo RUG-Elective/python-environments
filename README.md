@@ -19,10 +19,10 @@ This briefly describes how to install a Python virtual environment for the Geo-P
 ## Creating the environment for students
 1. Create the python environment using mamba
     ```bash
-    mamba env create -f geo-python-student.yml
+    mamba env create -f geospatial-student.yml
     ```
 2. Activate the new environment and update JupyterLab
     ```bash
-    conda activate geo-python-student
+    conda activate geospatial-student
     sh postBuild
     ```
